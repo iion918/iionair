@@ -5,7 +5,9 @@ In this tool you can crack WPA(2)-Passwords from WPAHandshakes with or without w
 
 ```diff
 
-+ Tool in Progress - 1 %
++ Tool in Progress - 2 %
++ Changelog:
+  02.07.2020: Added main checking function.
 ! Please note that this tool can be illegal if you test it on other things than your own. 
 ! I am not responsible for arrest!
 ```
